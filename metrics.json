@@ -1,0 +1,72 @@
+{
+ "all_cases": {
+  "n": 300,
+  "agreement": 0.8733,
+  "kappa": 0.7921,
+  "miss_rate": 0.0067,
+  "direction_errors": 1,
+  "false_detection_rate": 0.2467
+ },
+ "borderline_band": {
+  "n": 60,
+  "agreement": 0.4667,
+  "kappa": 0.0,
+  "miss_rate": null,
+  "direction_errors": 0,
+  "false_detection_rate": 0.5333
+ },
+ "auto_judged_subset": {
+  "n": 240,
+  "agreement": 0.975,
+  "kappa": 0.9589,
+  "miss_rate": 0.0067,
+  "direction_errors": 1,
+  "false_detection_rate": 0.0556
+ },
+ "coverage_auto_judged": 0.8,
+ "parse_fails": 0,
+ "confusion": [
+  [
+   [
+    "DOWN",
+    "DOWN"
+   ],
+   114
+  ],
+  [
+   [
+    "NO_CHANGE",
+    "NO_CHANGE"
+   ],
+   113
+  ],
+  [
+   [
+    "UP",
+    "UP"
+   ],
+   35
+  ],
+  [
+   [
+    "NO_CHANGE",
+    "DOWN"
+   ],
+   32
+  ],
+  [
+   [
+    "NO_CHANGE",
+    "UP"
+   ],
+   5
+  ],
+  [
+   [
+    "DOWN",
+    "UP"
+   ],
+   1
+  ]
+ ]
+}

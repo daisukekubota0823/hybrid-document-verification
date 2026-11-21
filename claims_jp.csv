@@ -1,0 +1,253 @@
+kind,evidence,statement,truth,band
+pathway,"- [Reactome] GPCR Downstream Signaling R-HSA-388396: NES = -1.82, FDR = 2.28e-05
+- [Reactome] TGF-beta Receptor Signaling Activates SMADs R-HSA-2173789: NES = -1.35, FDR = 0.281
+- [Reactome] Protein Folding R-HSA-391251: NES = -0.99, FDR = 0.713",パスウェイ解析において、Reactomeパスウェイ「GPCR Downstream Signaling R-HSA-388396」は有意に低下している（NES = -1.82、FDR = 2.28e-05）。,SUPPORTED,clear
+pathway,"- [Reactome] Eukaryotic Translation Termination R-HSA-72764: NES = 3.48, FDR = 3e-36
+- [Reactome] Toll Like Receptor 4 (TLR4) Cascade R-HSA-166016: NES = 1.00, FDR = 0.693
+- [Reactome] CDK-mediated Phosphorylation And Removal Of Cdc6 R-HSA-69017: NES = -0.83, FDR = 0.917",パスウェイ解析において、Reactomeパスウェイ「Eukaryotic Translation Termination R-HSA-72764」に有意な変化はない（NES = 3.48、FDR = 3e-36）。,CONTRADICTED,clear
+pathway,"- [Reactome] Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814: NES = -2.32, FDR = 3.84e-06
+- [Reactome] G Beta:Gamma Signaling Thru PLC Beta R-HSA-418217: NES = -1.26, FDR = 0.429
+- [Reactome] M Phase R-HSA-68886: NES = -1.76, FDR = 7.38e-06",パスウェイ解析において、Reactomeパスウェイ「M Phase R-HSA-68886」は有意に低下している（NES = -1.76、FDR = 7.38e-06）。,SUPPORTED,clear
+pathway,"- [Reactome] MAPK Targets/ Nuclear Events Mediated By MAP Kinases R-HSA-450282: NES = 1.74, FDR = 0.0458
+- [Reactome] Carboxyterminal Post-Translational Modifications Of Tubulin R-HSA-8955332: NES = 0.83, FDR = 0.89
+- [Reactome] Processing Of Intronless Pre-mRNAs R-HSA-77595: NES = -0.73, FDR = 0.964",パスウェイ解析において、Reactomeパスウェイ「MAPK Targets/ Nuclear Events Mediated By MAP Kinases R-HSA-450282」は有意に低下している（NES = -1.74、FDR = 0.0458）。,CONTRADICTED,borderline
+pathway,"- [Reactome] Cytochrome P450 - Arranged By Substrate Type R-HSA-211897: NES = -1.02, FDR = 0.645
+- [Reactome] TP53 Regulates Transcription Of DNA Repair Genes R-HSA-6796648: NES = 1.14, FDR = 0.477
+- [Reactome] Costimulation By CD28 Family R-HSA-388841: NES = -1.88, FDR = 0.0046",パスウェイ解析において、Reactomeパスウェイ「Costimulation By CD28 Family R-HSA-388841」は有意に低下している（NES = -1.88、FDR = 0.0046）。,SUPPORTED,clear
+pathway,"- [Reactome] Regulation Of APC/C Activators Between G1/S And Early Anaphase R-HSA-176408: NES = -1.18, FDR = 0.42
+- [Reactome] Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340: NES = -1.67, FDR = 0.0122
+- [Reactome] Diseases Associated With TLR Signaling Cascade R-HSA-5602358: NES = -1.41, FDR = 0.28",パスウェイ解析において、Reactomeパスウェイ「Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340」は有意に低下している（NES = -1.40、FDR = 0.0122）。,CONTRADICTED,clear
+pathway,"- [Reactome] Processive Synthesis On Lagging Strand R-HSA-69183: NES = -1.30, FDR = 0.402
+- [Reactome] SARS-CoV-2-host Interactions R-HSA-9705683: NES = 1.65, FDR = 0.00406
+- [Hallmark] E2F Targets: NES = -2.11, FDR = 4.48e-09",パスウェイ解析において、Hallmarkパスウェイ「E2F Targets」は有意に低下している（NES = -2.11、FDR = 4.48e-09）。,SUPPORTED,clear
+pathway,"- [Reactome] Visual Phototransduction R-HSA-2187338: NES = -1.84, FDR = 0.0122
+- [Reactome] NOTCH1 Intracellular Domain Regulates Transcription R-HSA-2122947: NES = 1.01, FDR = 0.652
+- [Reactome] Signaling By TGFB Family Members R-HSA-9006936: NES = -1.00, FDR = 0.713",パスウェイ解析において、Reactomeパスウェイ「Visual Phototransduction R-HSA-2187338」に有意な変化はない（NES = -1.84、FDR = 0.0122）。,CONTRADICTED,clear
+pathway,"- [Hallmark] Interferon Alpha Response: NES = -1.85, FDR = 0.000464
+- [Reactome] DNA Replication R-HSA-69306: NES = -1.15, FDR = 0.447
+- [Reactome] Signaling By WNT R-HSA-195721: NES = -1.63, FDR = 0.00244",パスウェイ解析において、Reactomeパスウェイ「Signaling By WNT R-HSA-195721」は有意に低下している（NES = -1.63、FDR = 0.00244）。,SUPPORTED,clear
+pathway,"- [Reactome] Influenza Infection R-HSA-168255: NES = 2.94, FDR = 3.4e-23
+- [Reactome] HDMs Demethylate Histones R-HSA-3214842: NES = 1.13, FDR = 0.516
+- [Reactome] Transcription Of HIV Genome R-HSA-167172: NES = 0.84, FDR = 0.927",パスウェイ解析において、Reactomeパスウェイ「Influenza Infection R-HSA-168255」は有意に低下している（NES = -2.94、FDR = 3.4e-23）。,CONTRADICTED,clear
+pathway,"- [Hallmark] Estrogen Response Early: NES = -1.68, FDR = 0.000539
+- [Reactome] Hedgehog Ligand Biogenesis R-HSA-5358346: NES = -0.62, FDR = 1
+- [Reactome] Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829: NES = -1.99, FDR = 0.00119",パスウェイ解析において、Reactomeパスウェイ「Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829」は有意に低下している（NES = -1.99、FDR = 0.00119）。,SUPPORTED,clear
+pathway,"- [Reactome] Platelet Homeostasis R-HSA-418346: NES = -1.23, FDR = 0.39
+- [Reactome] Cellular Response To Starvation R-HSA-9711097: NES = 3.17, FDR = 7.83e-30
+- [Reactome] ABC-family Proteins Mediated Transport R-HSA-382556: NES = -0.62, FDR = 1",パスウェイ解析において、Reactomeパスウェイ「Cellular Response To Starvation R-HSA-9711097」は有意に上昇している（NES = 0.87、FDR = 7.83e-30）。,CONTRADICTED,clear
+pathway,"- [Reactome] ADORA2B Mediated Anti-Inflammatory Cytokine Production R-HSA-9660821: NES = -1.77, FDR = 0.0178
+- [Reactome] Effects Of PIP2 Hydrolysis R-HSA-114508: NES = -0.88, FDR = 0.84
+- [Reactome] TICAM1, RIP1-mediated IKK Complex Recruitment R-HSA-168927: NES = 1.12, FDR = 0.561",パスウェイ解析において、Reactomeパスウェイ「ADORA2B Mediated Anti-Inflammatory Cytokine Production R-HSA-9660821」は有意に低下している（NES = -1.77、FDR = 0.0178）。,SUPPORTED,clear
+pathway,"- [Reactome] SMAD2/SMAD3:SMAD4 Heterotrimer Regulates Transcription R-HSA-2173796: NES = 1.15, FDR = 0.494
+- [Reactome] Cap-dependent Translation Initiation R-HSA-72737: NES = 3.38, FDR = 1.11e-35
+- [Reactome] Sensory Processing Of Sound By Inner Hair Cells Of Cochlea R-HSA-9662360: NES = -1.08, FDR = 0.58",パスウェイ解析において、Reactomeパスウェイ「Cap-dependent Translation Initiation R-HSA-72737」に有意な変化はない（NES = 3.38、FDR = 1.11e-35）。,CONTRADICTED,clear
+pathway,"- [Reactome] FOXO-mediated Transcription Of Cell Cycle Genes R-HSA-9617828: NES = -1.22, FDR = 0.449
+- [Reactome] Extracellular Matrix Organization R-HSA-1474244: NES = -2.29, FDR = 2.34e-11
+- [Reactome] Recycling Pathway Of L1 R-HSA-437239: NES = -1.20, FDR = 0.45",パスウェイ解析において、Reactomeパスウェイ「Extracellular Matrix Organization R-HSA-1474244」は有意に低下している（NES = -2.29、FDR = 2.34e-11）。,SUPPORTED,clear
+pathway,"- [Hallmark] Mitotic Spindle: NES = -1.96, FDR = 5.45e-07
+- [Reactome] ECM Proteoglycans R-HSA-3000178: NES = -1.53, FDR = 0.165
+- [Reactome] SUMOylation Of Chromatin Organization Proteins R-HSA-4551638: NES = -1.19, FDR = 0.445",パスウェイ解析において、Hallmarkパスウェイ「Mitotic Spindle」は有意に上昇している（NES = 1.96、FDR = 5.45e-07）。,CONTRADICTED,clear
+pathway,"- [Reactome] CTLA4 Inhibitory Signaling R-HSA-389513: NES = -1.75, FDR = 0.0567
+- [Reactome] EML4 And NUDC In Mitotic Spindle Formation R-HSA-9648025: NES = -2.12, FDR = 1.26e-05
+- [Reactome] Aberrant Regulation Of Mitotic Exit In Cancer Due To RB1 Defects R-HSA-9687136: NES = -0.71, FDR = 0.973",パスウェイ解析において、Reactomeパスウェイ「EML4 And NUDC In Mitotic Spindle Formation R-HSA-9648025」は有意に低下している（NES = -2.12、FDR = 1.26e-05）。,SUPPORTED,clear
+pathway,"- [Reactome] O-linked Glycosylation Of Mucins R-HSA-913709: NES = -1.04, FDR = 0.648
+- [Reactome] G Beta:Gamma Signaling Thru PLC Beta R-HSA-418217: NES = -1.26, FDR = 0.429
+- [Hallmark] Apoptosis: NES = -1.42, FDR = 0.022",パスウェイ解析において、Hallmarkパスウェイ「Apoptosis」は有意に低下している（NES = -1.14、FDR = 0.022）。,CONTRADICTED,clear
+pathway,"- [Reactome] Signaling By ALK Fusions And Activated Point Mutants R-HSA-9725370: NES = -1.58, FDR = 0.0877
+- [Reactome] Mitochondrial Biogenesis R-HSA-1592230: NES = -1.33, FDR = 0.26
+- [Reactome] Anti-inflammatory Response Favoring Leishmania Infection R-HSA-9662851: NES = -1.76, FDR = 0.00732",パスウェイ解析において、Reactomeパスウェイ「Anti-inflammatory Response Favoring Leishmania Infection R-HSA-9662851」は有意に低下している（NES = -1.76、FDR = 0.00732）。,SUPPORTED,clear
+pathway,"- [Reactome] RAC1 GTPase Cycle R-HSA-9013149: NES = -1.54, FDR = 0.0299
+- [Reactome] Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814: NES = -2.32, FDR = 3.84e-06
+- [Reactome] Sema4D In Semaphorin Signaling R-HSA-400685: NES = -0.74, FDR = 0.962",パスウェイ解析において、Reactomeパスウェイ「Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814」に有意な変化はない（NES = -2.32、FDR = 3.84e-06）。,CONTRADICTED,clear
+pathway,"- [Reactome] APC-Cdc20 Mediated Degradation Of Nek2A R-HSA-179409: NES = -0.68, FDR = 0.988
+- [Hallmark] Complement: NES = -1.73, FDR = 0.000302
+- [Reactome] Unattached Kinetochores Signal Amplification Via A MAD2 Inhibitory Signal R-HSA-141444: NES = -2.14, FDR = 4.25e-06",パスウェイ解析において、Reactomeパスウェイ「Unattached Kinetochores Signal Amplification Via A MAD2 Inhibitory Signal R-HSA-141444」は有意に低下している（NES = -2.14、FDR = 4.25e-06）。,SUPPORTED,clear
+pathway,"- [Reactome] Listeria Monocytogenes Entry Into Host Cells R-HSA-8876384: NES = 1.27, FDR = 0.405
+- [Reactome] Formation Of Incision Complex In GG-NER R-HSA-5696395: NES = 0.82, FDR = 0.917
+- [Reactome] Beta-catenin Phosphorylation Cascade R-HSA-196299: NES = -1.22, FDR = 0.448",パスウェイ解析において、Reactomeパスウェイ「Listeria Monocytogenes Entry Into Host Cells R-HSA-8876384」は有意に上昇している（NES = 1.27、FDR = 0.405）。,CONTRADICTED,clear
+pathway,"- [Reactome] Downstream Signaling Events Of B Cell Receptor (BCR) R-HSA-1168372: NES = -1.19, FDR = 0.414
+- [Reactome] HATs Acetylate Histones R-HSA-3214847: NES = 1.01, FDR = 0.659
+- [Reactome] RHO GTPases Activate CIT R-HSA-5625900: NES = -1.24, FDR = 0.429",パスウェイ解析において、Reactomeパスウェイ「Downstream Signaling Events Of B Cell Receptor (BCR) R-HSA-1168372」に有意な変化はない（NES = -1.19、FDR = 0.414）。,SUPPORTED,clear
+pathway,"- [Reactome] Glycosaminoglycan Metabolism R-HSA-1630316: NES = 1.17, FDR = 0.378
+- [Reactome] Negative Regulators Of DDX58/IFIH1 Signaling R-HSA-936440: NES = -0.96, FDR = 0.747
+- [Reactome] Nonhomologous End-Joining (NHEJ) R-HSA-5693571: NES = -1.07, FDR = 0.601",パスウェイ解析において、Reactomeパスウェイ「Glycosaminoglycan Metabolism R-HSA-1630316」に有意な変化はない（NES = -1.05、FDR = 0.378）。,CONTRADICTED,clear
+pathway,"- [Reactome] Platelet Homeostasis R-HSA-418346: NES = -1.23, FDR = 0.39
+- [Reactome] NCAM1 Interactions R-HSA-419037: NES = -1.30, FDR = 0.351
+- [Reactome] Transport Of Bile Salts And Organic Acids, Metal Ions And Amine Compounds R-HSA-425366: NES = -1.10, FDR = 0.561",パスウェイ解析において、Reactomeパスウェイ「Platelet Homeostasis R-HSA-418346」に有意な変化はない（NES = -1.23、FDR = 0.39）。,SUPPORTED,clear
+pathway,"- [Reactome] FGFR2 Alternative Splicing R-HSA-6803529: NES = 0.88, FDR = 0.84
+- [Reactome] Translocation Of SLC2A4 (GLUT4) To Plasma Membrane R-HSA-1445148: NES = -0.60, FDR = 1
+- [Reactome] Mitochondrial Protein Import R-HSA-1268020: NES = 0.87, FDR = 0.878",パスウェイ解析において、Reactomeパスウェイ「Translocation Of SLC2A4 (GLUT4) To Plasma Membrane R-HSA-1445148」は有意に低下している（NES = -0.60、FDR = 1）。,CONTRADICTED,clear
+pathway,"- [Hallmark] Fatty Acid Metabolism: NES = -1.40, FDR = 0.0287
+- [Reactome] G Beta:Gamma Signaling Thru PLC Beta R-HSA-418217: NES = -1.26, FDR = 0.429
+- [Reactome] Signaling By High-Kinase Activity BRAF Mutants R-HSA-6802948: NES = -1.66, FDR = 0.0755",パスウェイ解析において、Reactomeパスウェイ「G Beta:Gamma Signaling Thru PLC Beta R-HSA-418217」に有意な変化はない（NES = -1.26、FDR = 0.429）。,SUPPORTED,clear
+pathway,"- [Reactome] G2/M Checkpoints R-HSA-69481: NES = -1.45, FDR = 0.0867
+- [Reactome] HS-GAG Degradation R-HSA-2024096: NES = -1.34, FDR = 0.316
+- [Reactome] Defective B4GALT7 Causes EDS, Progeroid Type R-HSA-3560783: NES = -1.61, FDR = 0.151",パスウェイ解析において、Reactomeパスウェイ「HS-GAG Degradation R-HSA-2024096」は有意に低下している（NES = -1.34、FDR = 0.316）。,CONTRADICTED,clear
+pathway,"- [Reactome] PI3K Cascade R-HSA-109704: NES = 1.04, FDR = 0.629
+- [Reactome] RHOBTB1 GTPase Cycle R-HSA-9013422: NES = -0.95, FDR = 0.756
+- [Reactome] Signaling By FGFR1 In Disease R-HSA-5655302: NES = 0.89, FDR = 0.828",パスウェイ解析において、Reactomeパスウェイ「PI3K Cascade R-HSA-109704」に有意な変化はない（NES = 1.04、FDR = 0.629）。,SUPPORTED,clear
+pathway,"- [Reactome] Translocation Of SLC2A4 (GLUT4) To Plasma Membrane R-HSA-1445148: NES = -0.60, FDR = 1
+- [Reactome] FCERI Mediated Ca+2 Mobilization R-HSA-2871809: NES = -1.53, FDR = 0.224
+- [Reactome] DAG And IP3 Signaling R-HSA-1489509: NES = -1.56, FDR = 0.18",パスウェイ解析において、Reactomeパスウェイ「FCERI Mediated Ca+2 Mobilization R-HSA-2871809」に有意な変化はない（NES = 1.22、FDR = 0.224）。,CONTRADICTED,clear
+pathway,"- [Reactome] MAPK6/MAPK4 Signaling R-HSA-5687128: NES = -1.28, FDR = 0.273
+- [Reactome] Ub-specific Processing Proteases R-HSA-5689880: NES = -1.08, FDR = 0.537
+- [Reactome] GPCR Downstream Signaling R-HSA-388396: NES = -1.82, FDR = 2.28e-05",パスウェイ解析において、Reactomeパスウェイ「Ub-specific Processing Proteases R-HSA-5689880」に有意な変化はない（NES = -1.08、FDR = 0.537）。,SUPPORTED,clear
+pathway,"- [Reactome] Downregulation Of ERBB2 Signaling R-HSA-8863795: NES = 1.13, FDR = 0.52
+- [Reactome] HDMs Demethylate Histones R-HSA-3214842: NES = 1.13, FDR = 0.516
+- [Reactome] Pre-NOTCH Transcription And Translation R-HSA-1912408: NES = -1.08, FDR = 0.599",パスウェイ解析において、Reactomeパスウェイ「HDMs Demethylate Histones R-HSA-3214842」は有意に上昇している（NES = 1.13、FDR = 0.516）。,CONTRADICTED,clear
+pathway,"- [Reactome] Degradation Of AXIN R-HSA-4641257: NES = -0.87, FDR = 0.868
+- [Reactome] Peroxisomal Lipid Metabolism R-HSA-390918: NES = -0.51, FDR = 1
+- [Reactome] IKK Complex Recruitment Mediated By RIP1 R-HSA-937041: NES = 1.11, FDR = 0.539",パスウェイ解析において、Reactomeパスウェイ「Degradation Of AXIN R-HSA-4641257」に有意な変化はない（NES = -0.87、FDR = 0.868）。,SUPPORTED,clear
+pathway,"- [Reactome] Intra-Golgi And Retrograde Golgi-to-ER Traffic R-HSA-6811442: NES = -1.07, FDR = 0.561
+- [Reactome] MECP2 Regulates Neuronal Receptors And Channels R-HSA-9022699: NES = -0.79, FDR = 0.92
+- [Reactome] Heparan Sulfate/Heparin (HS-GAG) Metabolism R-HSA-1638091: NES = -1.05, FDR = 0.627",パスウェイ解析において、Reactomeパスウェイ「Heparan Sulfate/Heparin (HS-GAG) Metabolism R-HSA-1638091」は有意に低下している（NES = -1.05、FDR = 0.627）。,CONTRADICTED,clear
+pathway,"- [Reactome] HSF1-dependent Transactivation R-HSA-3371571: NES = -1.28, FDR = 0.386
+- [Reactome] Degradation Of GLI2 By Proteasome R-HSA-5610783: NES = -0.77, FDR = 0.964
+- [Reactome] Binding And Uptake Of Ligands By Scavenger Receptors R-HSA-2173782: NES = -1.80, FDR = 0.0443",パスウェイ解析において、Reactomeパスウェイ「HSF1-dependent Transactivation R-HSA-3371571」に有意な変化はない（NES = -1.28、FDR = 0.386）。,SUPPORTED,clear
+pathway,"- [Reactome] PI3K Cascade R-HSA-109704: NES = 1.04, FDR = 0.629
+- [Reactome] Signaling By FGFR2 R-HSA-5654738: NES = 0.86, FDR = 0.901
+- [Reactome] Glycerophospholipid Biosynthesis R-HSA-1483206: NES = -0.87, FDR = 0.884",パスウェイ解析において、Reactomeパスウェイ「Glycerophospholipid Biosynthesis R-HSA-1483206」に有意な変化はない（NES = 1.00、FDR = 0.884）。,CONTRADICTED,clear
+pathway,"- [Reactome] Visual Phototransduction R-HSA-2187338: NES = -1.84, FDR = 0.0122
+- [Reactome] Fatty Acid Metabolism R-HSA-8978868: NES = -1.35, FDR = 0.216
+- [Reactome] Nucleotide Catabolism R-HSA-8956319: NES = -0.65, FDR = 0.989",パスウェイ解析において、Reactomeパスウェイ「Fatty Acid Metabolism R-HSA-8978868」に有意な変化はない（NES = -1.35、FDR = 0.216）。,SUPPORTED,clear
+pathway,"- [Reactome] p53-Dependent G1 DNA Damage Response R-HSA-69563: NES = -1.20, FDR = 0.432
+- [Reactome] Viral mRNA Translation R-HSA-192823: NES = 3.48, FDR = 3.22e-35
+- [Reactome] Mitochondrial Biogenesis R-HSA-1592230: NES = -1.33, FDR = 0.26",パスウェイ解析において、Reactomeパスウェイ「Mitochondrial Biogenesis R-HSA-1592230」は有意に低下している（NES = -1.33、FDR = 0.26）。,CONTRADICTED,clear
+pathway,"- [Reactome] PI3K/AKT Signaling In Cancer R-HSA-2219528: NES = -0.88, FDR = 0.878
+- [Reactome] PI3K Cascade R-HSA-109704: NES = 1.04, FDR = 0.629
+- [Reactome] Signaling By FGFR R-HSA-190236: NES = 0.94, FDR = 0.787",パスウェイ解析において、Reactomeパスウェイ「Signaling By FGFR R-HSA-190236」に有意な変化はない（NES = 0.94、FDR = 0.787）。,SUPPORTED,clear
+pathway,"- [Reactome] Sema4D In Semaphorin Signaling R-HSA-400685: NES = -0.74, FDR = 0.962
+- [Reactome] Interleukin-6 Family Signaling R-HSA-6783589: NES = -0.90, FDR = 0.81
+- [Reactome] G Beta:Gamma Signaling Thru PI3Kgamma R-HSA-392451: NES = -1.13, FDR = 0.532",パスウェイ解析において、Reactomeパスウェイ「Sema4D In Semaphorin Signaling R-HSA-400685」は有意に低下している（NES = -0.74、FDR = 0.962）。,CONTRADICTED,clear
+pathway,"- [Reactome] Extra-nuclear Estrogen Signaling R-HSA-9009391: NES = -1.28, FDR = 0.351
+- [Reactome] ERK/MAPK Targets R-HSA-198753: NES = 0.96, FDR = 0.723
+- [Reactome] Negative Regulation Of MAPK Pathway R-HSA-5675221: NES = 1.06, FDR = 0.597",パスウェイ解析において、Reactomeパスウェイ「Extra-nuclear Estrogen Signaling R-HSA-9009391」に有意な変化はない（NES = -1.28、FDR = 0.351）。,SUPPORTED,clear
+pathway,"- [Reactome] Activation Of NF-kappaB In B Cells R-HSA-1169091: NES = -0.89, FDR = 0.848
+- [Reactome] Autodegradation Of E3 Ubiquitin Ligase COP1 R-HSA-349425: NES = -0.97, FDR = 0.719
+- [Reactome] Diseases Of Glycosylation R-HSA-3781865: NES = -1.46, FDR = 0.084",パスウェイ解析において、Reactomeパスウェイ「Activation Of NF-kappaB In B Cells R-HSA-1169091」に有意な変化はない（NES = 1.24、FDR = 0.848）。,CONTRADICTED,clear
+gene,"- ENSG00000115041: baseMean = 117, log2FoldChange = -1.16, padj = 0.00108
+- ENSG00000126216: baseMean = 1112, log2FoldChange = -0.0567, padj = 0.788
+- ENSG00000198353: baseMean = 2414, log2FoldChange = 0.768, padj = 3.04e-08",遺伝子 ENSG00000115041 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.16、padj = 0.00108）。,SUPPORTED,clear
+gene,"- ENSG00000133878: baseMean = 54.55, log2FoldChange = -1.11, padj = 0.0109
+- ENSG00000243244: baseMean = 430.3, log2FoldChange = -0.561, padj = 0.00295
+- ENSG00000182606: baseMean = 1512, log2FoldChange = -0.213, padj = 0.142",遺伝子 ENSG00000133878 に有意な変化はない（log2FoldChange = -1.11、padj = 0.0109）。,CONTRADICTED,borderline
+gene,"- ENSG00000115239: baseMean = 718.1, log2FoldChange = 0.00527, padj = 0.986
+- ENSG00000117020: baseMean = 1231, log2FoldChange = -0.0705, padj = 0.744
+- ENSG00000126259: baseMean = 80.27, log2FoldChange = -1.57, padj = 0.00302",遺伝子 ENSG00000126259 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.57、padj = 0.00302）。,SUPPORTED,clear
+gene,"- ENSG00000187796: baseMean = 67.89, log2FoldChange = 1.18, padj = 0.00192
+- ENSG00000154188: baseMean = 169.4, log2FoldChange = -1.24, padj = 1.1e-07
+- ENSG00000119688: baseMean = 1722, log2FoldChange = 0.289, padj = 0.0147",遺伝子 ENSG00000187796 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.18、padj = 0.00192）。,CONTRADICTED,clear
+gene,"- ENSG00000076108: baseMean = 4353, log2FoldChange = -0.148, padj = 0.38
+- ENSG00000151640: baseMean = 2446, log2FoldChange = 0.371, padj = 0.0515
+- ENSG00000138379: baseMean = 59.48, log2FoldChange = -2.44, padj = 8.19e-08",遺伝子 ENSG00000138379 は有意に変化した遺伝子であり、低下している（log2FoldChange = -2.44、padj = 8.19e-08）。,SUPPORTED,clear
+gene,"- ENSG00000170540: baseMean = 4951, log2FoldChange = -0.0577, padj = 0.704
+- ENSG00000136048: baseMean = 72.35, log2FoldChange = -1.63, padj = 9.08e-05
+- ENSG00000231305: baseMean = 35.92, log2FoldChange = 0.383, padj = 0.629",遺伝子 ENSG00000136048 は有意に変化した遺伝子であり、低下している（log2FoldChange = 0.312、padj = 9.08e-05）。,CONTRADICTED,clear
+gene,"- ENSG00000133704: baseMean = 1541, log2FoldChange = -0.332, padj = 0.00897
+- ENSG00000131845: baseMean = 418, log2FoldChange = 0.0399, padj = 0.898
+- ENSG00000129538: baseMean = 26.27, log2FoldChange = -1.8, padj = 0.00705",遺伝子 ENSG00000129538 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.8、padj = 0.00705）。,SUPPORTED,clear
+gene,"- ENSG00000073734: baseMean = 59.08, log2FoldChange = -2.8, padj = 2.09e-06
+- ENSG00000170502: baseMean = 600.2, log2FoldChange = -0.289, padj = 0.201
+- ENSG00000171792: baseMean = 1032, log2FoldChange = -0.115, padj = 0.486",遺伝子 ENSG00000073734 に有意な変化はない（log2FoldChange = -2.8、padj = 2.09e-06）。,CONTRADICTED,clear
+gene,"- ENSG00000083307: baseMean = 102.8, log2FoldChange = 0.662, padj = 0.222
+- ENSG00000120253: baseMean = 1607, log2FoldChange = -0.1, padj = 0.629
+- ENSG00000145362: baseMean = 694.1, log2FoldChange = -2.03, padj = 0.000167",遺伝子 ENSG00000145362 は有意に変化した遺伝子であり、低下している（log2FoldChange = -2.03、padj = 0.000167）。,SUPPORTED,clear
+gene,"- ENSG00000268089: baseMean = 79.14, log2FoldChange = 1.05, padj = 0.00857
+- ENSG00000169738: baseMean = 1035, log2FoldChange = 0.821, padj = 1.01e-11
+- ENSG00000108861: baseMean = 943.7, log2FoldChange = -0.161, padj = 0.509",遺伝子 ENSG00000268089 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.05、padj = 0.00857）。,CONTRADICTED,borderline
+gene,"- ENSG00000103197: baseMean = 5260, log2FoldChange = 0.242, padj = 0.0875
+- ENSG00000215421: baseMean = 571.8, log2FoldChange = 0.00804, padj = 0.981
+- ENSG00000163661: baseMean = 62.63, log2FoldChange = -1.31, padj = 0.00235",遺伝子 ENSG00000163661 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.31、padj = 0.00235）。,SUPPORTED,clear
+gene,"- ENSG00000131507: baseMean = 3015, log2FoldChange = -0.00881, padj = 0.966
+- ENSG00000134326: baseMean = 85.2, log2FoldChange = -1.21, padj = 0.00119
+- ENSG00000280120: baseMean = 71.37, log2FoldChange = 0.0988, padj = 0.896",遺伝子 ENSG00000134326 は有意に変化した遺伝子であり、低下している（log2FoldChange = 0.221、padj = 0.00119）。,CONTRADICTED,clear
+gene,"- ENSG00000165272: baseMean = 22.81, log2FoldChange = -3.22, padj = 5.03e-05
+- ENSG00000277268: baseMean = 424.3, log2FoldChange = 1.74, padj = 0.00115
+- ENSG00000151090: baseMean = 86.52, log2FoldChange = -1.56, padj = 1.88e-06",遺伝子 ENSG00000165272 は有意に変化した遺伝子であり、低下している（log2FoldChange = -3.22、padj = 5.03e-05）。,SUPPORTED,clear
+gene,"- ENSG00000055163: baseMean = 857.4, log2FoldChange = 0.695, padj = 0.000261
+- ENSG00000167702: baseMean = 133.4, log2FoldChange = 1.09, padj = 0.000202
+- ENSG00000121236: baseMean = 292.5, log2FoldChange = -0.183, padj = 0.603",遺伝子 ENSG00000167702 に有意な変化はない（log2FoldChange = 1.09、padj = 0.000202）。,CONTRADICTED,borderline
+gene,"- ENSG00000182518: baseMean = 404.2, log2FoldChange = -0.0147, padj = 0.968
+- ENSG00000005471: baseMean = 100.1, log2FoldChange = 1.17, padj = 0.0106
+- ENSG00000178585: baseMean = 2566, log2FoldChange = 0.097, padj = 0.579",遺伝子 ENSG00000005471 は有意に変化した遺伝子であり、上昇している（log2FoldChange = 1.17、padj = 0.0106）。,SUPPORTED,clear
+gene,"- ENSG00000148584: baseMean = 49.83, log2FoldChange = -2.01, padj = 0.00021
+- ENSG00000132522: baseMean = 101.8, log2FoldChange = 0.909, padj = 0.0174
+- ENSG00000183814: baseMean = 418.2, log2FoldChange = -0.251, padj = 0.192",遺伝子 ENSG00000148584 は有意に変化した遺伝子であり、上昇している（log2FoldChange = 2.01、padj = 0.00021）。,CONTRADICTED,clear
+gene,"- ENSG00000160678: baseMean = 52.47, log2FoldChange = -0.378, padj = 0.632
+- ENSG00000244509: baseMean = 284.4, log2FoldChange = -1.24, padj = 7.03e-05
+- ENSG00000181135: baseMean = 387.9, log2FoldChange = 0.26, padj = 0.323",遺伝子 ENSG00000244509 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.24、padj = 7.03e-05）。,SUPPORTED,clear
+gene,"- ENSG00000122644: baseMean = 174.7, log2FoldChange = 0.363, padj = 0.22
+- ENSG00000180758: baseMean = 73.67, log2FoldChange = -0.786, padj = 0.15
+- ENSG00000123146: baseMean = 165.2, log2FoldChange = -1.09, padj = 9.48e-05",遺伝子 ENSG00000123146 は有意に変化した遺伝子であり、低下している（log2FoldChange = -0.185、padj = 9.48e-05）。,CONTRADICTED,borderline
+gene,"- ENSG00000230185: baseMean = 26.51, log2FoldChange = 0.312, padj = 0.745
+- ENSG00000162924: baseMean = 237.6, log2FoldChange = -0.0165, padj = 0.968
+- ENSG00000087495: baseMean = 115.4, log2FoldChange = -2.14, padj = 2.55e-13",遺伝子 ENSG00000087495 は有意に変化した遺伝子であり、低下している（log2FoldChange = -2.14、padj = 2.55e-13）。,SUPPORTED,clear
+gene,"- ENSG00000203805: baseMean = 85.76, log2FoldChange = -2.59, padj = 6.13e-15
+- ENSG00000163840: baseMean = 56.87, log2FoldChange = -1.27, padj = 0.0109
+- ENSG00000237493: baseMean = 96.22, log2FoldChange = 0.0529, padj = 0.93",遺伝子 ENSG00000163840 に有意な変化はない（log2FoldChange = -1.27、padj = 0.0109）。,CONTRADICTED,clear
+gene,"- ENSG00000157895: baseMean = 754.6, log2FoldChange = 0.0252, padj = 0.941
+- ENSG00000135547: baseMean = 641.1, log2FoldChange = 0.0918, padj = 0.773
+- ENSG00000169174: baseMean = 380.7, log2FoldChange = -1.3, padj = 3.04e-07",遺伝子 ENSG00000169174 は有意に変化した遺伝子であり、低下している（log2FoldChange = -1.3、padj = 3.04e-07）。,SUPPORTED,clear
+gene,"- ENSG00000140471: baseMean = 306.9, log2FoldChange = 0.0902, padj = 0.787
+- ENSG00000185522: baseMean = 43, log2FoldChange = 0.695, padj = 0.21
+- ENSG00000159023: baseMean = 4828, log2FoldChange = -0.228, padj = 0.0355",遺伝子 ENSG00000140471 は有意に変化した遺伝子であり、上昇している（log2FoldChange = 0.0902、padj = 0.787）。,CONTRADICTED,clear
+gene,"- ENSG00000157388: baseMean = 27.53, log2FoldChange = 1.16, padj = 0.0939
+- ENSG00000179632: baseMean = 2235, log2FoldChange = 0.269, padj = 0.0255
+- ENSG00000127526: baseMean = 1316, log2FoldChange = -0.018, padj = 0.944",遺伝子 ENSG00000157388 に有意な変化はない（log2FoldChange = 1.16、padj = 0.0939）。,SUPPORTED,clear
+gene,"- ENSG00000254505: baseMean = 27.01, log2FoldChange = -0.158, padj = 0.881
+- ENSG00000235703: baseMean = 82.17, log2FoldChange = 0.388, padj = 0.522
+- ENSG00000163362: baseMean = 2087, log2FoldChange = -0.0409, padj = 0.867",遺伝子 ENSG00000254505 に有意な変化はない（log2FoldChange = 0.359、padj = 0.881）。,CONTRADICTED,clear
+gene,"- ENSG00000168701: baseMean = 292.3, log2FoldChange = 0.305, padj = 0.226
+- ENSG00000169169: baseMean = 796.6, log2FoldChange = 0.0859, padj = 0.748
+- ENSG00000234741: baseMean = 2453, log2FoldChange = 0.905, padj = 9.33e-16",遺伝子 ENSG00000168701 に有意な変化はない（log2FoldChange = 0.305、padj = 0.226）。,SUPPORTED,clear
+gene,"- ENSG00000187672: baseMean = 150, log2FoldChange = 0.17, padj = 0.687
+- ENSG00000139233: baseMean = 468.1, log2FoldChange = -0.000644, padj = 0.998
+- ENSG00000198089: baseMean = 598.6, log2FoldChange = 0.505, padj = 0.00733",遺伝子 ENSG00000139233 は有意に変化した遺伝子であり、低下している（log2FoldChange = -0.000644、padj = 0.998）。,CONTRADICTED,clear
+gene,"- ENSG00000130528: baseMean = 348.8, log2FoldChange = -0.416, padj = 0.187
+- ENSG00000131951: baseMean = 32.14, log2FoldChange = -0.287, padj = 0.74
+- ENSG00000144401: baseMean = 415.2, log2FoldChange = -0.19, padj = 0.397",遺伝子 ENSG00000131951 に有意な変化はない（log2FoldChange = -0.287、padj = 0.74）。,SUPPORTED,clear
+gene,"- ENSG00000232093: baseMean = 24.79, log2FoldChange = -0.79, padj = 0.281
+- ENSG00000187109: baseMean = 2.563e+04, log2FoldChange = 0.149, padj = 0.275
+- ENSG00000153179: baseMean = 1149, log2FoldChange = -0.188, padj = 0.268",遺伝子 ENSG00000187109 は有意に変化した遺伝子であり、上昇している（log2FoldChange = 0.149、padj = 0.275）。,CONTRADICTED,clear
+gene,"- ENSG00000134324: baseMean = 1404, log2FoldChange = -0.179, padj = 0.269
+- ENSG00000254901: baseMean = 170.4, log2FoldChange = 0.732, padj = 0.00779
+- ENSG00000075945: baseMean = 1408, log2FoldChange = -0.195, padj = 0.24",遺伝子 ENSG00000134324 に有意な変化はない（log2FoldChange = -0.179、padj = 0.269）。,SUPPORTED,clear
+gene,"- ENSG00000197555: baseMean = 1181, log2FoldChange = -0.241, padj = 0.0867
+- ENSG00000167674: baseMean = 3117, log2FoldChange = -0.0848, padj = 0.6
+- ENSG00000162825: baseMean = 168.3, log2FoldChange = -0.0871, padj = 0.863",遺伝子 ENSG00000167674 に有意な変化はない（log2FoldChange = 0.198、padj = 0.6）。,CONTRADICTED,clear
+gene,"- ENSG00000221930: baseMean = 96.92, log2FoldChange = -0.867, padj = 0.00843
+- ENSG00000183506: baseMean = 1242, log2FoldChange = 0.62, padj = 1.11e-05
+- ENSG00000074800: baseMean = 1.398e+04, log2FoldChange = -0.164, padj = 0.293",遺伝子 ENSG00000183506 に有意な変化はない（log2FoldChange = 0.62、padj = 1.11e-05）。,SUPPORTED,clear
+gene,"- ENSG00000170322: baseMean = 2156, log2FoldChange = 0.196, padj = 0.0961
+- ENSG00000133424: baseMean = 1008, log2FoldChange = 0.304, padj = 0.0258
+- ENSG00000250251: baseMean = 767.7, log2FoldChange = 0.234, padj = 0.382",遺伝子 ENSG00000133424 は有意に変化した遺伝子であり、上昇している（log2FoldChange = 0.304、padj = 0.0258）。,CONTRADICTED,clear
+gene,"- ENSG00000133216: baseMean = 906.4, log2FoldChange = -0.39, padj = 0.0593
+- ENSG00000109689: baseMean = 1010, log2FoldChange = 0.0709, padj = 0.745
+- ENSG00000105185: baseMean = 792.4, log2FoldChange = 0.112, padj = 0.574",遺伝子 ENSG00000133216 に有意な変化はない（log2FoldChange = -0.39、padj = 0.0593）。,SUPPORTED,borderline
+gene,"- ENSG00000079332: baseMean = 2871, log2FoldChange = 0.0276, padj = 0.888
+- ENSG00000204899: baseMean = 579.7, log2FoldChange = -0.226, padj = 0.305
+- ENSG00000128708: baseMean = 1202, log2FoldChange = -0.102, padj = 0.59",遺伝子 ENSG00000128708 は有意に変化した遺伝子であり、低下している（log2FoldChange = -0.102、padj = 0.59）。,CONTRADICTED,clear
+gene,"- ENSG00000153832: baseMean = 119.2, log2FoldChange = 0.0239, padj = 0.967
+- ENSG00000151491: baseMean = 406, log2FoldChange = -0.54, padj = 0.00282
+- ENSG00000136574: baseMean = 323.1, log2FoldChange = -0.331, padj = 0.355",遺伝子 ENSG00000153832 に有意な変化はない（log2FoldChange = 0.0239、padj = 0.967）。,SUPPORTED,clear
+gene,"- ENSG00000120693: baseMean = 1480, log2FoldChange = -0.439, padj = 0.0202
+- ENSG00000181408: baseMean = 112.9, log2FoldChange = -2.06, padj = 9.05e-05
+- ENSG00000163462: baseMean = 403.2, log2FoldChange = 0.325, padj = 0.267",遺伝子 ENSG00000163462 に有意な変化はない（log2FoldChange = -0.0491、padj = 0.267）。,CONTRADICTED,clear
+gene,"- ENSG00000106538: baseMean = 125.9, log2FoldChange = -1.34, padj = 0.00905
+- ENSG00000161298: baseMean = 207.6, log2FoldChange = -0.335, padj = 0.203
+- ENSG00000129757: baseMean = 1863, log2FoldChange = -0.375, padj = 0.1",遺伝子 ENSG00000161298 に有意な変化はない（log2FoldChange = -0.335、padj = 0.203）。,SUPPORTED,clear
+gene,"- ENSG00000132109: baseMean = 274, log2FoldChange = -0.395, padj = 0.0823
+- ENSG00000104679: baseMean = 945.5, log2FoldChange = 0.0235, padj = 0.926
+- ENSG00000078804: baseMean = 341.6, log2FoldChange = 0.403, padj = 0.177",遺伝子 ENSG00000078804 は有意に変化した遺伝子であり、上昇している（log2FoldChange = 0.403、padj = 0.177）。,CONTRADICTED,clear
+gene,"- ENSG00000128965: baseMean = 49.24, log2FoldChange = -0.837, padj = 0.0726
+- ENSG00000139323: baseMean = 403.8, log2FoldChange = -0.136, padj = 0.611
+- ENSG00000164109: baseMean = 1683, log2FoldChange = -0.164, padj = 0.411",遺伝子 ENSG00000164109 に有意な変化はない（log2FoldChange = -0.164、padj = 0.411）。,SUPPORTED,clear
+gene,"- ENSG00000145703: baseMean = 825.2, log2FoldChange = -0.853, padj = 4.66e-09
+- ENSG00000151617: baseMean = 2654, log2FoldChange = 0.49, padj = 0.0293
+- ENSG00000170421: baseMean = 2344, log2FoldChange = 0.218, padj = 0.346",遺伝子 ENSG00000145703 は有意に変化した遺伝子であり、低下している（log2FoldChange = -0.853、padj = 4.66e-09）。,CONTRADICTED,borderline
+gene,"- ENSG00000198874: baseMean = 622.8, log2FoldChange = 0.126, padj = 0.591
+- ENSG00000131470: baseMean = 262.1, log2FoldChange = 0.271, padj = 0.315
+- ENSG00000152217: baseMean = 1761, log2FoldChange = -0.65, padj = 3.04e-08",遺伝子 ENSG00000198874 に有意な変化はない（log2FoldChange = 0.126、padj = 0.591）。,SUPPORTED,clear
+gene,"- ENSG00000154240: baseMean = 322.4, log2FoldChange = 0.0501, padj = 0.901
+- ENSG00000128989: baseMean = 5763, log2FoldChange = -0.056, padj = 0.713
+- ENSG00000124193: baseMean = 6583, log2FoldChange = 0.421, padj = 0.0187",遺伝子 ENSG00000154240 に有意な変化はない（log2FoldChange = -0.311、padj = 0.901）。,CONTRADICTED,clear
